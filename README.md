@@ -1,0 +1,1 @@
+Browser automation framework using Ruby, Selenium, and Cucumber.
